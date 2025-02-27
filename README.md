@@ -2,15 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola%2C+Soy+PiPirate!;Desarrollador+Full+Stack;Amante+de+la+Tecnología;Innovador+y+Creativo" alt="Typing SVG" />
 </h1>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-Expert-blue" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-Expert-green" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source" />
-</p>
-
 <!-- Imagen de perfil con animación -->
 <p align="center">
   <img src="https://github.com/PiPirate/PiPirate/blob/main/images/profile.gif?raw=true" alt="Profile GIF" width="200" height="200" style="border-radius: 50%;"/>
@@ -33,6 +24,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-Expert-blue" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-Expert-green" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source" />
 </p>
 
 <!-- Estadísticas de GitHub -->
