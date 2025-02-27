@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola%2C+Soy+[PiPirate]!;Desarrollador+Full+Stack;Amante+de+la+Tecnología;Innovador+y+Creativo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=¡Hola%2C+Soy+PiPirate!;Desarrollador+Full+Stack;Amante+de+la+Tecnología;Innovador+y+Creativo" alt="Typing SVG" />
 </h1>
 
 <!-- Badges -->
@@ -13,7 +13,7 @@
 
 <!-- Imagen de perfil con animación -->
 <p align="center">
-  <img src="https://github.com/[TuUsuario]/[TuUsuario]/blob/main/images/profile.gif?raw=true" alt="Profile GIF" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/PiPirate/PiPirate/blob/main/images/profile.gif?raw=true" alt="Profile GIF" width="200" height="200" style="border-radius: 50%;"/>
 </p>
 
 <!-- Descripción -->
@@ -45,10 +45,10 @@
 <!-- Proyectos Destacados -->
 <h2 align="center">🚀 Proyectos Destacados</h2>
 <p align="center">
-  <a href="https://github.com/[TuUsuario]/[Proyecto1]">
+  <a href="https://github.com/PiPirate/[Proyecto1]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TuUsuario]&repo=[Proyecto1]&theme=radical" alt="Proyecto 1" />
   </a>
-  <a href="https://github.com/[TuUsuario]/[Proyecto2]">
+  <a href="https://github.com/PiPirate/[Proyecto2]">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TuUsuario]&repo=[Proyecto2]&theme=radical" alt="Proyecto 2" />
   </a>
 </p>
