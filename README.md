@@ -38,28 +38,28 @@
 <!-- Estadísticas de GitHub -->
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TuUsuario]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TuUsuario]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <!-- Proyectos Destacados -->
 <h2 align="center">🚀 Proyectos Destacados</h2>
 <p align="center">
   <a href="https://github.com/PiPirate/[Proyecto1]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TuUsuario]&repo=[Proyecto1]&theme=radical" alt="Proyecto 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[PiPirate]&repo=[Proyecto1]&theme=radical" alt="Proyecto 1" />
   </a>
   <a href="https://github.com/PiPirate/[Proyecto2]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[TuUsuario]&repo=[Proyecto2]&theme=radical" alt="Proyecto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=[PiPirate]&repo=[Proyecto2]&theme=radical" alt="Proyecto 2" />
   </a>
 </p>
 
 <!-- Contacto -->
 <h2 align="center">📫 Contacto</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/[TuUsuario]">
+  <a href="https://linkedin.com/in/[PiPirate]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/[TuUsuario]">
+  <a href="https://twitter.com/[PiPirate]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:[TuEmail]">
