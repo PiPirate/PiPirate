@@ -29,10 +29,11 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-Expert-blue" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-Expert-green" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C-Expert-green" alt="C" />
+  <img src="https://img.shields.io/badge/C++-Expert-green" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-Expert-green" alt="Java" />
+  <img src="https://img.shields.io/badge/PhP-Expert-green" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen" alt="Open Source" />
 </p>
 
 <!-- Estadísticas de GitHub -->
