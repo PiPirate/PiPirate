@@ -10,7 +10,7 @@
 <!-- Descripción -->
 <h2 align="center">👨‍💻 Sobre Mí</h2>
 <p align="center">
-  Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web y móviles. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Mi objetivo es crear soluciones innovadoras que impacten positivamente en la vida de las personas.
+  Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web y móviles. Me encanta aprender nuevas tecnologías y compartir mis conocimientos con la comunidad. Mi objetivo es crear soluciones innovadoras que impacten positivamente en mi entorno y en la vida de las personas.
 </p>
 
 <!-- Tecnologías -->
