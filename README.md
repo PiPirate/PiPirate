@@ -26,16 +26,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-Expert-green" alt="C" />
-  <img src="https://img.shields.io/badge/C++-Expert-green" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-Expert-green" alt="Java" />
-  <img src="https://img.shields.io/badge/PhP-Expert-green" alt="PHP" />
-  <img src="https://img.shields.io/badge/Python-Expert-blue" alt="Python" />
-</p>
-
 <!-- Estadísticas de GitHub -->
 <h2 align="center">📊 Estadísticas de GitHub</h2>
 <p align="center">
