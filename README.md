@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy PiPirate! 👋
 
 Bienvenido a mi espacio digital. Soy **estudiante de Tecnología en Sistemas** apasionado por la innovación y el desarrollo de software. Me encanta aprender, compartir y crecer en este vasto universo tecnológico.
 
