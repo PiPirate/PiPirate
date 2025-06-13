@@ -69,16 +69,6 @@ Each commit tells part of my journey as a developer. I strive to maintain a clea
 
 ---
 
-## 📫 Connect With Me
-
-I'm always open to new ideas and collaborations! You can connect with me here:
-
-- [LinkedIn](https://www.linkedin.com)
-- [Twitter](https://twitter.com)
-- [My Portfolio](https://tuportafolio.com)
-
----
-
 <p align="center">
   <strong><em style="font-size: 1.2em;">Building the future, commit by commit... 🚀✨</em></strong>
 </p>
