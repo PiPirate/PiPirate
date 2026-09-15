@@ -42,16 +42,25 @@ Databases
 
 <br/>
 
-GitHub Analytics
+
+## GitHub Analytics
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" alt="PiPirate GitHub Stats" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PiPirate&theme=github_dark" alt="PiPirate Profile Summary" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" alt="PiPirate Top Languages" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiPirate&theme=github_dark" alt="PiPirate Repositories per Language" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PiPirate&theme=github_dark" alt="PiPirate Most Commit Language" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiPirate&theme=github_dark" alt="PiPirate GitHub Stats" />
+  <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PiPirate&theme=github_dark&utcOffset=-5" alt="PiPirate Productive Time" />
 </div>
 
 <br/>
@@ -59,14 +68,6 @@ GitHub Analytics
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=PiPirate&theme=github-dark-blue&hide_border=true&border_radius=12" alt="PiPirate GitHub Streak" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiPirate&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="PiPirate Contribution Graph" />
-</div>
-
-<br/>
 
 Commit Convention
 
