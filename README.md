@@ -1,75 +1,86 @@
-# 👋 Hi, I'm PiPirate!
+<div align="center">
 
-Welcome to my digital space. I'm passionate about software development, innovation, and continuous learning. Here you'll find a summary of my skills, projects, and GitHub contributions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=PiPirate&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Building%20ideas%20into%20code&descAlignY=58&descSize=18" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1100&color=58A6FF&center=true&vCenter=true&width=720&lines=Full-Stack+Development;Web+%26+Mobile+Applications;APIs+%7C+Databases+%7C+Software+Engineering;Learning.+Building.+Improving." alt="Typing SVG" />
 
-## 📚 About Me
+</div>
 
-I specialize in developing web and mobile applications, and implementing efficient tech solutions. I'm always learning and exploring new tools to build high-quality projects, commit by commit.
+<br/>
 
----
+About Me
 
-## 💻 Languages & Technologies
+I'm a software developer focused on building web and mobile applications, designing efficient solutions, and continuously improving my technical skills.
 
-I've worked with a wide variety of languages and technologies. Here are some of them:
+I enjoy turning ideas into functional products, learning new technologies, and writing code that is clean, maintainable, and useful.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-</p>
+> Building practical solutions.
+> Learning something new with every project.
+> Improving one commit at a time.
 
----
+<br/>
 
-## 🗄️ Databases
+Tech Stack
 
-I also have experience working with different types of databases:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,php,laravel,python,java,c,cpp,html,css,git,kotlin,swift,ruby&theme=dark&perline=8" alt="Tech Stack" />
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<br/>
 
----
+Databases
 
-## 🎨 GitHub Stats
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" title="MongoDB" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="55" alt="MySQL" title="MySQL" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="55" alt="Oracle" title="Oracle" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" title="PostgreSQL" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PiPirate&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&theme=radical" />
-</p>
+<br/>
 
----
+GitHub Analytics
 
-## ✨ Commit Style
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=58A6FF" alt="PiPirate GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="PiPirate Top Languages" />
+</div>
 
-Each commit tells part of my journey as a developer. I strive to maintain a clean and descriptive history. Some examples:
+<br/>
 
-- `feat: add JWT authentication functionality`
-- `fix: fix validation in contact form`
-- `refactor: optimize rendering in React component`
-- `docs: update API documentation`
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=PiPirate&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="PiPirate GitHub Streak" />
+</div>
 
----
+<br/>
 
-<p align="center">
-  <strong><em style="font-size: 1.2em;">Building the future, commit by commit... 🚀✨</em></strong>
-</p>
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiPirate&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="PiPirate Contribution Graph" />
+</div>
+
+<br/>
+
+Commit Convention
+
+I like keeping my Git history clean, readable, and easy to understand.
+
+feat:     add JWT authentication functionality
+fix:      resolve contact form validation issue
+refactor: optimize React component rendering
+docs:     update API documentation
+
+<br/>
+
+<div align="center">
+
+Building the future, commit by commit.
+
+<sub>Code · Learn · Improve · Repeat</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 
