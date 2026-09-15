@@ -45,20 +45,25 @@ Databases
 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=8B5CF6&ring_color=58A6FF" alt="PiPirate GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="PiPirate Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=PiPirate&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=1800" alt="PiPirate GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=PiPirate&hide_border=true&background=0D1117&ring=58A6FF&fire=8B5CF6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="PiPirate GitHub Streak" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiPirate&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8&cache_seconds=1800" alt="PiPirate Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiPirate&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="PiPirate Contribution Graph" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=PiPirate&theme=github-dark-blue&hide_border=true&border_radius=12" alt="PiPirate GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=PiPirate&bg_color=0d1117&color=58a6ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="PiPirate Contribution Graph" />
 </div>
 
 <br/>
@@ -83,4 +88,3 @@ Building the future, commit by commit.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
-
